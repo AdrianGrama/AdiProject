@@ -1,2 +1,2 @@
 # AdiProject
- MyFirstTechDegreeProject
+ My First Techdegree Project
