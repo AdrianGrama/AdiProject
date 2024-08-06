@@ -274,3 +274,38 @@ img {
   margin: 0 auto;
   max-width: 100%;
 }
+/* Button Styles */
+.button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* Blue Button */
+.button.blue {
+  background-color: #007bff;
+}
+
+.button.blue:hover {
+  background-color: #3399ff;
+}
+
+.button.red {
+  background-color: #ff0000;
+}
+
+.button.red:hover {
+  background-color: #ff6666;
+}
+
+/* Green Button */
+.button.green {
+  background-color: #28a745;
+}
+
+.button.green:hover {
+  background-color: #5ac679;
+}
